@@ -1,3 +1,6 @@
+Modified version of the plugin to install on moodle 3.11
+
+
 Mynotes Block
 --------------
 A simpler mynotes system that integrates as moodle block to save user's notes
